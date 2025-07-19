@@ -44,7 +44,7 @@ This project assesses the level of anxiety in individuals using the standardized
 - 0–15 → **Extremely Low Anxiety**
 
 ## Project Documentation  
-📄 [**Download Full Project Report (PDF)**](docs/Anxiety_test.pdf)
+📄 [**Download Full Project Report (PDF)**](Anxiety_test.pdf)
 
 Includes complete documentation of:
 - Function descriptions and input/output  
